@@ -1,4 +1,4 @@
-﻿{
+{
     "version": "99.99.99-dev",
     "buildOptions": {
         "compile": [
@@ -44,7 +44,8 @@
             }
         }
     },
-    "dependencies": {
-        "xunit.core": "99.99.99-dev"
-    }
+  "dependencies": {
+    "NETStandard.Library": "1.6.1",
+    "xunit.core": "99.99.99-dev"
+  }
 }
